@@ -19,7 +19,7 @@
     <div class="left-hero">
        <div class="creativity">
             <p> 
-              <span class="tech-text1">JUSTICE</span> <br> 
+              <span class="tech-text1">CREDIBILITY</span> <br> 
               <span class="structure">STRUCTURED BY</span>  <br>
               <span class="tech-text">TECHNOLOGY</span>
             </p>
